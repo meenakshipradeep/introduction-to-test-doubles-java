@@ -4,7 +4,7 @@
 
 ## 🔎 Exercise 1.1 - Exploring the Code
 
-For this exercise, spend some time familarising yourself with the code.
+For this exercise, spend some time familarising yourself with the code.mvn 
   
 - Part of your journey to becoming a great Software Engineer
   is being able to read and understand code, as well as writing it.
